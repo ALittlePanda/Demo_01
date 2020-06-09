@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">美食鉴赏</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">奥利给责任发展有限公司</string>
+    <string name="nav_header_subtitle">www.aoligei.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">设置</string>
+
+    <string name="menu_home">点餐</string>
+    <string name="menu_gallery">找到我们</string>
+    <string name="menu_slideshow">加入我们</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="text_date">1.0.1beta</string>
+    <string name="text_c">测试</string>
+    <string name="view_1">pizza</string>
+    <string name="view_2">小食</string>
+    <string name="view_3">拌面</string>
+    <string name="view_4">烤肠</string>
+    <string name="view_5">意面</string>
+    <string name="text_1">芝士牛肉披萨</string>
+    <string name="text_2">简式意面</string>
+    <string name="text_3">小食拼盘</string>
+    <string name="text_4">烤肠沙拉</string>
+    <string name="text_5">小葱拌面</string>
+    <string name="text_01">菜品简介：芝士、牛肉、面制品\n\t\t\t\t\t\t（外送柠檬茶）</string>
+    <string name="text_1_1">¥  68</string>
+    <string name="text_2_1">菜品简介：纯手工意大利面条、\n\t\t\t\t\t\t芝士末</string>
+    <string name="text_2_2">¥ 30</string>
+    <string name="text_3_1">菜品简介：薯条、烤鸡翅（一对）、\n\t\t\t\t\t\t麻薯球（5个）、鸡块（4块）</string>
+    <string name="text_3_2">¥ 45</string>
+    <string name="text_4_1">菜品简介：三种品类烤肠、应季水果、\n\t\t\t\t\t\t沙拉</string>
+    <string name="text_4_2">¥ 35</string>
+    <string name="text_5_1">菜品简介：花生豆、牛肉粒、鸡肉末、\n\t\t\t\t\t\t小葱、挂面</string>
+    <string name="text_5_2">¥ 18</string>
+    <string name="view_head">图标</string>
+    <string name="g_text_1">店铺地址：\n广东省奥利市奥利县奥利乡奥利给村奥利路88号</string>
+    <string name="g_text_2">联系电话：\n18819898988</string>
+    <string name="g_text_3">邮箱：\naoligei@niubi.com</string>
+    <string name="s_text_1">招聘启事</string>
+    <string name="s_text_2">奥利给责任有限公司欢迎业界小白加入！\n只要你够会玩、够沙雕、够有趣，\n就能成为我们中的一员。\n欢迎你的到来！</string>
+    <string name="s_text_3">详情请咨询：\n官方微信：aoligei\n邮箱：aoligei@niubi.com</string>
+</resources>

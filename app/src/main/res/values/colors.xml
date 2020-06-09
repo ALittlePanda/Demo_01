@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF000000</color>//修改初始颜色为黑色
+    <color name="colorPrimaryDark">#FF000000</color>//修改状态栏颜色为黑色
+    <color name="colorAccent">#03DAC5</color>
+</resources>
